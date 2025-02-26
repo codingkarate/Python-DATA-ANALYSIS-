@@ -1,0 +1,1 @@
+print(name,"\n",age,"\n",address)
